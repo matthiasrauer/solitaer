@@ -1,0 +1,115 @@
+32 Steine
++-------+
+|  III  |
+|  III  |
+|IIIIIII|
+|IIIoIII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
+
+31 Steine
++-------++-------++-------++-------+
+|  III  ||  III  ||  III  ||  III  |
+|  III  ||  IoI  ||  III  ||  III  |
+|IIIIIII||IIIoIII||IIIIIII||IIIIIII|
+|IooIIII||IIIIIII||IIIIIII||IIIIooI|
+|IIIIIII||IIIIIII||IIIoIII||IIIIIII|
+|  III  ||  III  ||  IoI  ||  III  |
+|  III  ||  III  ||  III  ||  III  |
++-------++-------++-------++-------+
+
+30 Steine
++-------+
+|  III  |
+|  III  |
+|IIIIIII|
+|IoIooII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
++-------++-------+
+|  III  ||  III  |
+|  oII  ||  III  |
+|IIoIIII||IIIIIII|
+|IoIIIII||IoIIIII|
+|IIIIIII||IIoIIII|
+|  III  ||  oII  |
+|  III  ||  III  |
++-------++-------+
+
+29 Steine
++-------++-------+
+|  III  ||  III  |
+|  IoI  ||  III  |
+|IIIoIII||IIIIIII|
+|IoIIoII||IoIIoII|
+|IIIIIII||IIIoIII|
+|  III  ||  IoI  |
+|  III  ||  III  |
++-------++-------+
++-------+
+|  III  |
+|  III  |
+|IIIIIII|
+|IoIoIoo|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
++-------++-------+
+|  III  ||  III  |
+|  IIo  ||  III  |
+|IIIIoII||IIIIIII|
+|IoIoIII||IoIoIII|
+|IIIIIII||IIIIoII|
+|  III  ||  IIo  |
+|  III  ||  III  |
++-------++-------+
++-------+
+|  III  |
+|  Ioo  |
+|IIoIIII|
+|IoIIIII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
++-------+
+|  III  |
+|  oII  |
+|ooIIIII|
+|IoIIIII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
++-------+
+|  III  |
+|  oII  |
+|IIIooII|
+|IoIIIII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
++-------+
+|  III  |
+|  oII  |
+|IIIIIII|
+|IooIIII|
+|IIoIIII|
+|  III  |
+|  III  |
++-------+
++-------+
+|  III  |
+|  oII  |
+|IIoIIII|
+|IIooIII|
+|IIIIIII|
+|  III  |
+|  III  |
++-------+
